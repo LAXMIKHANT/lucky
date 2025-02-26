@@ -35,7 +35,7 @@ const Gold =() => {
                 <div className="box5"><span> <b>Car Drive from Gokarna</b></span></div>
                 <div className="box6"><span>A short 15-minute drive takes you to the serene shores of GoldenKuddleBeach Resort.</span></div>
                 </div>
-                <h1>read</h1>
+
             </div>
             <div className="main5">
             <div className="sub7">
